@@ -1,5 +1,5 @@
 h1{
-    align-items: center;
+    margin-left: 100px;
     justify-content: center;
     flex-direction: column;
     color: #F5C84B;
@@ -7,6 +7,25 @@ h1{
     display: flex;
     background-size: cover;
     background-position: center;
-    height: 30vh;
+    height: 20vh;
     padding: 2rem;
+}
+p{
+     margin-left: 130px;
+     max-width: 600px;
+    font-size: large;
+    justify-content: center;
+    flex-direction: column;
+    color: #FFF8E7; 
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+
+
+}
+img{
+ margin-left: 130px;
+}
+.fotodiomedes{
+  display: block;
+  margin-bottom: 50px;
 }
