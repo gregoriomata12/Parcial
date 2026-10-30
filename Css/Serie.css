@@ -1,0 +1,27 @@
+.titulos{
+     color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     display: center;
+    margin-left: 100px;
+  height: 14vh;
+   text-align:left;
+    margin-top: 0;
+  position: relative;
+  top: 56px;
+}
+.parrafo1{
+   margin-left: 640px;
+   margin-right: 220px;   
+   font-size: larger;
+  position: relative;
+  top: -310px;
+    color: #FFF8E7; 
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+
+
+}
+img{
+
+    margin-left: 100px;
+}
