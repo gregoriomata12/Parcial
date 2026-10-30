@@ -70,20 +70,78 @@ height: 14vh;
   position: relative;
   
 }
+  .momentosimportantes2{
+color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     display: center;
+height: 14vh;
+    margin-top: 0;
+  position: relative;
+  top: -570px;
+  text-align: justify;       
+  max-width: 600px;
+  margin: 20px auto 0;
+  position: relative;
+}
+
+
 .video1{
 position: relative;
-top: -490px;
+top: -590px;
 margin-left: 200px;
 }
 .video2{
-
-
+    position: relative;
+    top: -240px;
+    margin-left: 200px;
 }
 .video3{
+    
+position: relative;
+    top: -170px;
+    margin-left: 580px;
+}
+
+
+.h2{
+    color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     position: relative;
+     top: -590px;
+     margin-left: 270px;
+}
+.h2l{
+     color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     position: relative;
+     top: -620px;
+     margin-left: 1000px;
+
 
 
 }
-.video4{
+.h2li{
+color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     position: relative;
+     top: 60px;
+     margin-left: 260px;
+}
+.h2l2{
+     color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     position: relative;
+     top: 40px;
+     margin-left: 1050px;
 
-    
+}
+.trailer{
+
+color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     position: relative;
+     top: -200px;
+     margin-left: 807px;
+
+
 }
