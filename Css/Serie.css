@@ -29,7 +29,7 @@ img{
      color: goldenrod;
      text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
      display: center;
-    margin-left: 100px;
+   
   height: 14vh;
     margin-top: 0;
   position: relative;
@@ -38,11 +38,52 @@ img{
   max-width: 700px;
   margin: 20px auto 0;
   position: relative;
-  margin-right: -300px;
+  margin-right: -50px;
 }
 .img2{
    margin-left: 1030px;
    position: relative;
    top: -310px;
 
+}
+.parrafo2{
+margin-left: 100px; 
+margin-right: 700px;
+   font-size: larger;
+  position: relative;
+  top: -750px;
+    color: #FFF8E7; 
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+}
+.momentosimportantes{
+color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     display: center;
+height: 14vh;
+    margin-top: 0;
+  position: relative;
+  top: -570px;
+  text-align: justify;       
+  max-width: 600px;
+  margin: 20px auto 0;
+  position: relative;
+  
+}
+.video1{
+position: relative;
+top: -490px;
+margin-left: 200px;
+}
+.video2{
+
+
+}
+.video3{
+
+
+}
+.video4{
+
+    
 }
