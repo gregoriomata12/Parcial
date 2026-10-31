@@ -98,3 +98,14 @@ margin-right: 720px;
 
 
   }
+  .t5{
+ color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     display: center;
+   text-align:center;
+    margin-top: 0;
+  position: relative;
+  top: 56px;
+
+
+}
