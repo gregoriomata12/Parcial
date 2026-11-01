@@ -34,16 +34,64 @@ color: goldenrod;
 
   }
   .parrafo1{
-   margin-left: 650px;
-   margin-right: 220px;   
-   font-size: larger;
+   margin-left: 850px;
+   margin-right: 130px;   
+   font-size: 150%;
   position: relative;
-  top: -360px;
+  top: -370px;
     color: #FFF8E7; 
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
   text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
   }
   .acomoda{
    margin-left: 7%;
+
+  }
+  .acomodaimg2{
+  margin-left: 20%;
+  position: relative;
+ top: -340px;
+
+  }
+  .tituloniño{
+    color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     display: center;
+    margin-left: 390px;
+  height: 14vh;
+   text-align:left;
+    margin-top: 0;
+  position: relative;
+  top: -250px;
+
+  }
+  .tituloadulto{
+
+ color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     display: center;
+    margin-right: 290px;
+  height: 14vh;
+   text-align:right;
+    margin-top: 0;
+  position: relative;
+  top: -710px;
+  }
+  .acomodaimg3{
+  margin-left: 67%;
+  position: relative;
+ top: -800px;
+   
+  }
+  .titulotwo{
+color: goldenrod;
+     text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+     display: center;
+    margin-left: 120px;
+  height: 14vh;
+   text-align:left;
+    margin-top: 0;
+  position: relative;
+  top: -600px;
 
   }
