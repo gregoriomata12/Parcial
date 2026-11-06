@@ -12,7 +12,7 @@ color: goldenrod;
   .h1l{
 margin-left: 110px;
    margin-right: 160px;  
-   font-size: larger;
+   font-size: x-large;
   position: relative;
     color: #FFF8E7; 
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
@@ -48,7 +48,7 @@ color: goldenrod;
   .parrafo{
      margin-left: 720px;
    margin-right: 200px;   
-   font-size: larger;
+   font-size: x-large;
   position: relative;
   top: -400px;
     color: #FFF8E7; 
@@ -79,7 +79,7 @@ color: goldenrod;
   .t3{
     margin-left: 100px; 
 margin-right: 720px;
-   font-size: larger;
+   font-size: x-large;
   position: relative;
   top: -550px;
     color: #FFF8E7; 

@@ -13,7 +13,7 @@ h1{
 p{
      margin-left: 8%;
      max-width: 27%;
-    font-size: large;
+    font-size: 1.5rem;
     justify-content: center;
     flex-direction: column;
     color: #FFF8E7; 
@@ -42,7 +42,7 @@ img{
  .telenovela p {
   color: #ededed;
   text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.8);
-  font-size: 1.1rem;
+  font-size: 1.5rem;
   line-height: 1.8;
   text-align: justify;       
   max-width: 700px;
