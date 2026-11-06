@@ -8,5 +8,4 @@
    }
  ajustar();
  window.addEventListener("resize", ajustar)
-
 })();
